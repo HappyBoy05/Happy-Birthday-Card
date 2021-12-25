@@ -176,7 +176,7 @@ button.addEventListener("click",function(){
             return;
         }
 
-        document.querySelector(".HBD").textContent = "May your soul rest in peace";
+        document.querySelector(".HBD").textContent = "Happy Birthday And Be Happy 🥳";
 
         frames[1].style.display = "flex";
 
